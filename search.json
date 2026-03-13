@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume\nMy resume will be available here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Karthika 👋\nI am a Master’s student in Data Science and Analytics at Grand Valley State University.\nMy interests include:\n\nData Analytics\nMachine Learning\nData Visualization\nAI Applications\n\nThis portfolio showcases my work in:\n\nData Analysis\nMachine Learning\nVisualization\nAI Projects"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nYou can connect with me through:\n\nLinkedIn\nEmail"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\nThis page will showcase my data science and analytics projects."
+  }
+]
