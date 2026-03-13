@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+# Hi, I'm Karthika 👋
+
+I am a Master's student in **Data Science and Analytics at Grand Valley State University**.
+
+My interests include:
+
+- Data Analytics
+- Machine Learning
+- Data Visualization
+- AI Applications
+
+This portfolio showcases my work in:
+
+- Data Analysis
+- Machine Learning
+- Visualization
+- AI Projects
